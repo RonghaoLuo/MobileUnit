@@ -73,3 +73,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ronghao Added
+Assets/"Editor Default Resources"/
+Assets/ExternalDependencyManager
+Assets/Firebase
+Assets/GeneratedLocalRepo
+Assets/Plugins
+Assets/Resources
+Assets/Samples
+Assets/StreamingAssets
+Assets/"TextMesh Pro"/
